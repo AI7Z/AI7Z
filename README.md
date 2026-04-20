@@ -1,1 +1,1 @@
-[...](giphy.gif)
+<img src="giphy.gif">
