@@ -1,3 +1,2 @@
-<center>
-  <img src='giphy.gif'>
-</center>
+ <img src='giphy.gif' width='1000px'
+   height='auto'>
