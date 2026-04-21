@@ -1,1 +1,3 @@
-<img src='giphy.gif'>
+<center>
+  <img src='giphy.gif'>
+</center>
